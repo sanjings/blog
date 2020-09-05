@@ -3,6 +3,7 @@
 ### JavaScript
 **[JavaScript中Object的常用apis](https://github.com/sanjing14/Blog/issues/1)**  
 **[封装图片懒加载&预加载函数](https://github.com/sanjing14/Blog/issues/3)**
+**[函数防抖&节流](https://github.com/sanjing14/Blog/issues/4)**
 ### 浏览器
 **[基础知识总结](https://github.com/sanjing14/Blog/issues/2)**
 ### 项目实战
