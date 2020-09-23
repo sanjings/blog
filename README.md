@@ -2,7 +2,9 @@
 我的技术博客以及学习记录，不定时更新
 
 ## JavaScript
-**[JavaScript中Object的常用apis](https://github.com/sanjing14/Blog/issues/1)**  
+**[Object的常用apis](https://github.com/sanjing14/Blog/issues/1)**  
+
+**[加深理解，手写数组常用方法！](https://github.com/sanjing14/Blog/issues/6)**  
 
 **[封装图片懒加载&预加载函数](https://github.com/sanjing14/Blog/issues/3)**  
 
@@ -16,4 +18,4 @@
 ## 项目实战
 **[基于Vue2.6.11的单页面项目模板](https://github.com/sanjing14/vue2-spa-template)**  
 
-**[原生JS组件化开发在线教育移动端项目DEMO](https://github.com/sanjing14/js-compontents-modules)**
+**[原生JS组件化开发在线教育H5](https://github.com/sanjing14/js-compontents-modules)**
