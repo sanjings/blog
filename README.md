@@ -18,4 +18,6 @@
 ## 项目实战
 **[基于Vue2.6.11的单页面项目模板](https://github.com/sanjing14/vue2-spa-template)**  
 
-**[原生JS组件化开发在线教育H5](https://github.com/sanjing14/js-compontents-modules)**
+**[原生JS组件化开发在线教育H5](https://github.com/sanjing14/js-compontents-modules)**  
+
+**[react+hooks+redux开发音乐webapp](https://github.com/sanjing14/react-hooks-music-h5)**  
