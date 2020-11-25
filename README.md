@@ -22,7 +22,7 @@
 
 **[react+hooks+redux+immerjs开发音乐webapp](https://github.com/sanjings/react-hooks-music-h5)**  
 
-**[vue3+vite+ts开发仿网易云音乐webpc](https://github.com/sanjings/vue3-vite-ts-music-pc)**  
+**[vue3+vite+ts开发仿网易云音乐webpc(开发中)](https://github.com/sanjings/vue3-vite-ts-music-pc)**  
 
 
 
