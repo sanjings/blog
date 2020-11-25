@@ -20,9 +20,9 @@
 
 **[原生JS组件化开发在线教育webapp](https://github.com/sanjings/js-component-education)**  
 
-**[react+hooks+redux+immerjs开发音乐webapp](https://github.com/sanjings/react-hooks-music-h5)**  
+**[react+hooks+redux+immerjs开发音乐webapp](https://github.com/sanjings/react-hooks-music)**  
 
-**[vue3+vite+ts开发仿网易云音乐webpc（开发中）](https://github.com/sanjings/vue3-vite-ts-music-pc)**  
+**[vue3+vite+ts开发仿网易云音乐webpc](https://github.com/sanjings/vue3-vite-ts-music)**  
 
 
 
