@@ -18,6 +18,6 @@
 ## 项目源码
 **[基于Vue2.6.11的单页面项目模板](https://github.com/sanjings/vue2-spa-template)**  
 
-**[原生JS组件化开发在线教育H5](https://github.com/sanjings/js-compontents-modules)**  
+**[原生JS组件化开发在线教育webapp](https://github.com/sanjings/js-component-education)**  
 
 **[react+hooks+redux+immerjs开发音乐webapp](https://github.com/sanjings/react-hooks-music-h5)**  
